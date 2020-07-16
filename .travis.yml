@@ -1,5 +1,5 @@
 language: csharp
-solution: SonarQubeTesting.sln
+solution: SonarQubeIssues.sln
 
 addons:
     sonarcloud:
