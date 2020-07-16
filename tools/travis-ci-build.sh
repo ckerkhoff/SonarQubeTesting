@@ -1,6 +1,6 @@
 #!/bin/sh
-echo "Changing to /src directory..."
-cd src
+#echo "Changing to /src directory..."
+#cd src
 echo "Executing MSBuild.exe begin command..."
 mono ../tools/sonar/SonarScanner.MSBuild.exe begin /o:"ckerkhoff" /k:"ckerkhoff_SonarQubeTesting" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.verbose=true /d:sonar.login=${SONAR_TOKEN}
 echo "Running build..."
