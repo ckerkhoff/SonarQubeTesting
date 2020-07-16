@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarQubeTesting", "SonarQubeTesting\SonarQubeTesting.csproj", "{2895DF81-7551-4658-8D74-4015BCB39D3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarQubeIssues", "SonarQubeIssues\SonarQubeIssues.csproj", "{2895DF81-7551-4658-8D74-4015BCB39D3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
