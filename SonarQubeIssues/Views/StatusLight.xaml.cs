@@ -27,6 +27,7 @@ namespace SonarQubeTesting.Views
         {
             get
             {
+                //return (Color)GetValue(BackgroundColorProperty);
                 return (Color)GetValue(BackgroundColorProperty);
             }
 
